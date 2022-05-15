@@ -1,0 +1,24 @@
+/* Section One */
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.section-one-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.section-one-container h1 {
+  font-size: 3rem;
+}
+
+.section-one-container p {
+  font-size: 3rem;
+}
+
+.section-one-info {
+  border: solid 1px black;
+  width: 300px;
+  padding: 25px;
+}
